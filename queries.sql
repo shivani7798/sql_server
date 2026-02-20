@@ -1,0 +1,2 @@
+-- queries.sql
+-- Add SELECT/UPDATE/DELETE queries here
