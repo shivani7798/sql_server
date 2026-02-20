@@ -1,2 +1,0 @@
--- create_tables.sql
--- Add CREATE TABLE statements here

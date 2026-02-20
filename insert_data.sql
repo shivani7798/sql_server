@@ -1,2 +1,0 @@
--- insert_data.sql
--- Add INSERT INTO statements here
